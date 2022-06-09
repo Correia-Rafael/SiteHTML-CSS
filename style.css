@@ -61,10 +61,15 @@ main{
 }
 
 .imagem-home{
-    padding: 50px 60px ;
-    width: 450px;
-    height: 450px;
+    padding: 60px 70px ;
     border-radius: 50%;
+    width: 350px;
+    height: 350px;
+    margin-top: 40px;
+    padding: 2px 1px;
+    box-shadow: 0 0 22px 0 rgb(255, 105, 207);
+    margin: 40px;
+
 
 
 }
@@ -79,15 +84,28 @@ main{
 
 .imagem-home2{
     padding: 60px 70px ;
-    width: 650px;
-    height: 450px;
+    width: 510px;
+    height: 320px;
     border-radius: 50%;
+    margin-top: 40px;
+    padding: 2px 1px;
+    box-shadow: 0 0 22px 0 rgb(255, 105, 207);
+    margin: 40px;
 
 }
 .imagem-home2{
     display:  inline-block;
     text-align: center;
 
+}
+.beleza-gif{
+    padding: 40px 60px ;
+    width: 300px;
+    height: 320px;
+    border-radius: 50%;
+    padding: 2px 1px;
+    box-shadow: 0 0 22px 0 rgb(255, 105, 207);
+    margin: 40px;
 }
 
 .wrapper{
@@ -112,12 +130,7 @@ main{
     text-align: left;
 }
 
-.beleza-gif{
-    padding: 40px 60px ;
-    width: 450px;
-    height: 400px;
-    border-radius: 50%;
-}
+
 
 .title_main{
     text-align: center;
@@ -302,8 +315,8 @@ form label, form legend{
     background: rgb(255, 238, 0);
     border-radius: 10px;
     border: none;
-    cursor: pointer; 
-    transition: 2s all; 
+    cursor: pointer;
+    transition: 2s all;
 }
 
 .save:hover{
