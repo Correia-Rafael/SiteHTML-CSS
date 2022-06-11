@@ -22,6 +22,7 @@ time, mark, audio, video {
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
+    
 }
 /* Redefinição da função de exibição HTML5 para navegadores mais antigos */
 article, aside, details, figcaption, figure,
